@@ -1,0 +1,7 @@
+ PS117,001 [HLLW <Pr>] [>T JHWH <Ob>]
+ PS117,001 [KL GWJM <Vo>]
+ PS117,001 [CBXWHW <PO>]
+ PS117,001 [KL H->MJM <Vo>]
+ PS117,002 [KJ <Cj>] [GBR <Pr>] [<LJNW <Co>] [XSDW <Su>]
+ PS117,002 [W-<Cj>] [>MT JHWH <Su>] [L-<WLM <PC>]
+ PS117,002 [HLLW <Pr>] [JH <Ob>]

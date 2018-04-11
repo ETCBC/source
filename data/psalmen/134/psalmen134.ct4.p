@@ -1,0 +1,8 @@
+ PS134,001 [CJR H-M<LWT <PC>]
+ PS134,001 [HNH <Ij>] [BRKW <Pr>] [>T JHWH <Ob>]
+ PS134,001 [KL <BDJ JHWH <Vo>]
+ PS134,001 [H-<Re>] [<MDJM <PC>] [B-BJT JHWH <Co>] [B--LJLWT <Ti>]
+ PS134,002 [F>W <Pr>] [JDKM <Ob>] [QDC <Aj>]
+ PS134,002 [W-<Cj>] [BRKW <Pr>] [>T JHWH <Ob>]
+ PS134,003 [JBRKK <PO>] [JHWH <Su>] [M-YJWN <Lo>]
+ PS134,003 [<FH <PC>] [CMJM W->RY <Ob>]

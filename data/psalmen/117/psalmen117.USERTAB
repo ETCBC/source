@@ -1,0 +1,7 @@
+.N T  0: L    1: C   1: P1   1: Pl   2: Cty  103: CCR   0: dis     0: S   1: Q       : 1         :ZIm0 #   1 103   2 133   6 200   0   0
+v. T  2: L    2: C   2: P1   1: Pl   1: Cty  301: CCR   0: dis     0: S   1: Q       : 1         :Voct #  -1 103   0   0
+.. T  1: L    3: C   1: P1   1: Pl   1: Cty  103: CCR   0: dis     0: S   2: Q       : 1         :ZIm0 #  -2 133   1 103   2 523   0   0
+v. T  3: L    4: C   2: P1   1: Pl   1: Cty  301: CCR   0: dis     0: S   2: Q       : 1         :Voct #  -1 103   0   0
+.. T  2: L    5: C   1: P1   1: Pl   4: Cty  142: CCR   0: dis     0: S   3: Q       : 1         :xQtX #  -2 523   1 402   0   0
+.. T  3: L    6: C   2: P1   1: Pl   3: Cty  200: CCR  -6: dis   -11: S   3: Q       : 1         :NmCl #  -1 402   0   0
+.. T  0: L    7: C   1: P1   1: Pl   2: Cty  103: CCR   0: dis     0: S   4: Q       : 1         :ZIm0 #  -6 200   0   0

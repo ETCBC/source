@@ -1,0 +1,8 @@
+.N T  0: L    1: C   1: P1   1: Pl   1: Cty  200: CCR   0: dis     0: S   1: ?       : 1         :NmCl #   1 130   0   0
+.N T  0: L    2: C   1: P1   1: Pl   3: Cty  133: CCR   0: dis     0: S   2: Q       : 2         :xIm0 #  -1 130   1 103   3 133   5 113   0   0
+v. T  3: L    3: C   1: P1   1: Pl   1: Cty  301: CCR   0: dis     0: S   3: Q       : 2         :Voct #  -1 103   1  16   0   0
+.. T  4: L    4: C   2: P1   1: Pl   4: Cty  106: CCR -13: dis  -104: S   3: Q       : 2         :Ptcp #  -1  16   0   0
+.. T  2: L    5: C   1: P1   1: Pl   3: Cty  103: CCR   0: dis     0: S   4: Q       : 2         :ZIm0 #  -3 133   1 201   0   0
+.. T  3: L    6: C   1: P1   1: Pl   3: Cty  153: CCR   0: dis     0: S   5: Q       : 2         :WIm0 #  -1 201   0   0
+.. T  1: L    7: C   1: P1   1: Pl   3: Cty  111: CCR   0: dis     0: S   6: Q       : 2         :ZYqX #  -5 113   1 161   0   0
+.. T  2: L    8: C   2: P1   1: Pl   2: Cty  106: CCR -13: dis  -103: S   6: Q       : 2         :Ptcp #  -1 161   0   0
